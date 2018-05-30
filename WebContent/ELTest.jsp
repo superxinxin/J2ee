@@ -57,7 +57,7 @@ c:if 的用法，运行结果：
 还没超神
 </c:if>
 <br>
-c:choose 的用法，运行结果：
+c:choose 的用法，运行结果:
  
 <c:choose>
     <c:when test="${killNumber>=10}">
