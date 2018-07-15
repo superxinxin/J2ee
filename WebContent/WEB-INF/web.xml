@@ -98,5 +98,5 @@
   </listener>
   <listener>
     <listener-class>listener.OnlineNumberListener</listener-class>
-</listener>  
+  </listener>
 </web-app>
